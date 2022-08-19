@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Real Time Chat",
+    "desc": "A simple application that helps people to communicate with each other through messaging. Built using HTML,CSS, JavaScript, Node js, Socket IO.",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/harshitgupta2019/Real-Time-Chat-App",
+      "code": "https://github.com/harshitgupta2019/Real-Time-Chat-App"
+    }
+  },
+  {
+    "name": "Git Hub Users",
+    "desc": "It Fetches JSON Data and display all repos of github users in paginated manners with having features of sort by name and sort by stars. Built using HTML, CSS, Js,React.",
+    "image": "sppuprepandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://git-hub-users-eta.vercel.app/",
+      "code": "https://github.com/harshitgupta2019/GitHubUsers"
+    }
+  },
+  {
+    "name": "Stack overflow clone",
+    "desc": "It is clone of stack overflow built using Reactjs,Expressjs, Mongodb, Nodejs.",
+    "image": "newsboxandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://stack-overflow-har.netlify.app/",
+      "code": "https://github.com/harshitgupta2019/Stack-overflow-clone"
+    }
+  },
+  {
+    "name": "To-Do List",
+    "desc": "A simple app having a feature to maintain our dayto-day tasks .",
+    "image": "todolist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://harshitgupta2019.github.io/To-Do-List/",
+      "code": "https://github.com/harshitgupta2019/To-Do-List"
+    }
+  },
+  {
+    "name": "Action Game",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "action",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/harshitgupta2019/Action_game",
+      "code": "https://github.com/harshitgupta2019/Action_game"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "It is a basic portfolio built for myself.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/harshitgupta2019/portfolio"
+    }
+  }
+
+]
