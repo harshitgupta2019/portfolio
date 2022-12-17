@@ -75,7 +75,7 @@
     "image": "kiaweb",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://har-portfolio.netlify.app/",
       "code": "https://github.com/harshitgupta2019/portfolio"
     }
   }
