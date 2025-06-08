@@ -70,5 +70,17 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }   
+    },
+    {
+        "name": "FastAPI",
+        "icon": "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg"
+    },
+    {
+        "name": "OAuth",
+        "icon": "https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    }
 ]

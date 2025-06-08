@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "Projects | Portfolio Harshit Gupta";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
@@ -102,7 +102,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 })();
 // End of Tawk.to Live Chat
 
-// disable developer mode
+// diGupta developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
